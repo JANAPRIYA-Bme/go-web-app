@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: manijana123/go-web-app
-  tag: "37575981065"
+  tag: "37577423094"
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
